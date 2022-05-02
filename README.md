@@ -18,7 +18,7 @@
 ```
 
 # prerequisite 
-> Please Allow 22 Port
+> Please Allow 22 Port<br>
 > If the monitored server and monitoring server are different instance, <br>
 > You must allow port 22 on monitored server from the monitoring server.
 
