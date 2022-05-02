@@ -1,0 +1,2 @@
+# logMonitor
+reInitialize
